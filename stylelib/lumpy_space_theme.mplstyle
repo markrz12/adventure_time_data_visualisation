@@ -1,0 +1,32 @@
+axes.prop_cycle: cycler('color', ['c085dd', '35accf', '636aba', '415199'])
+axes.facecolor: 160e23
+axes.edgecolor: c085dd
+figure.facecolor: 461854
+text.color: c085dd
+xtick.color: c085dd
+ytick.color: c085dd
+xtick.direction: in
+ytick.direction: in
+font.family: Comic Sans MS
+font.size: 12
+patch.edgecolor: 9C84A6
+patch.linewidth: 0.9
+legend.facecolor: 461854
+legend.edgecolor: c085dd
+legend.fontsize: 12
+axes.titlesize: 18
+axes.titlecolor: c085dd
+axes.labelsize: 14
+axes.labelcolor: c085dd
+axes.titlepad: 12
+figure.autolayout: True
+scatter.marker: D
+lines.markersize: 9
+lines.linewidth: 1.1
+lines.marker: D
+lines.linestyle: -
+image.cmap: lumpy_theme
+axes.grid: True
+axes.grid.which: both
+grid.alpha: 0.3
+axes.axisbelow: True
